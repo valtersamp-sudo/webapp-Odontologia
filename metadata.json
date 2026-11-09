@@ -1,0 +1,6 @@
+{
+  "name": "Harmony Smile Odontologia",
+  "description": "Sistema moderno de agendamento e gestão de consultas odontológicas para a clínica Harmony Smile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
